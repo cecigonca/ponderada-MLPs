@@ -38,3 +38,7 @@ Rode os comandos seguintes
 ```python3 mlp.py```
 
 ```python3 mlptorch.py```
+
+## Arquivos
+- **mlp.py**: Implementa um MLP usando NumPy para resolver a função XOR através de treinamento. O código inclui inicialização de pesos, função de ativação sigmoidal e ajustes iterativos dos pesos.
+- **mlptorch.py**: Implementa um MLP usando PyTorch para a função XOR, utilizando camadas lineares e ativação sigmoidal. 
